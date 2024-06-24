@@ -6,6 +6,7 @@ public class Day2variables {
 		
 		
 		//int a;   //declaration 
+		
 		//a=100; //assignment
 		
 		int a=200;  // declaration +assignment.
