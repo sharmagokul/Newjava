@@ -6,7 +6,7 @@ public class Java1 {
 		System.out.println("gokul");
 		System.out.println(10+20);
 		System.out.println("hello");
-		Hi
+		System.out.println("I learned Git hub");
 		
 		
 		
